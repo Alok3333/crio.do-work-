@@ -118,6 +118,8 @@ function Student(studentName, studentStandard, favourateSubject) {
 };
 
 const alokObj = new Student("Alok kumar", "10th", "Algebra");
+Student.prototype.medium = "Hindi";
 console.log(alokObj);
+console.log(Student.prototype.medium);
 console.log(alokObj.intro());
 console.log(alokObj.favSub());
