@@ -1,4 +1,4 @@
-//Algorithm: Check is a number is positive (+ve) or negative (-ve)
+//Algorithm: Check if a number is positive (+ve) or negative (-ve)
 
 let number = 1;
 
